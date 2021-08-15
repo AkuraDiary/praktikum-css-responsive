@@ -10,7 +10,7 @@ div.article{
     color: #fff; padding: 10px;
 }
 
-@media only screen and(max-width:768px){
+@media only screen and (max-width:768px){
     div.article{
         width: 80%;
         margin: 0 auto;
@@ -24,7 +24,7 @@ div.article{
     }
 }
 
-@media only screen and(max-width:600px){
+@media only screen and (max-width:600px){
     div.article{
         width: 80%;
         margin: 0 auto;
